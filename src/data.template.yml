@@ -1,0 +1,22 @@
+personal:
+  name:
+    first:
+      - John
+      - Mark
+    last:
+      - Doe
+  birthday: 910510
+contact:
+  email: private@email
+  phone: +1 555-0101
+socials:
+  github:
+  twitter:
+  facebook:
+  mastodon:
+education:
+  -
+    date_finished: 06
+    title:
+    school_name:
+

@@ -1,0 +1,9 @@
+*.pug
+*.yml
+*.md
+*.json
+
+**/legacy/**/*.js
+themes/ckecosystem/layout/demo/data/template-revision-history-changes.js
+themes/ckecosystem/src/icons/svg-symbols.scss
+tests/*
